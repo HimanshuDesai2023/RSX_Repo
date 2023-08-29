@@ -3,7 +3,7 @@
   "CODE": 0,
   "data": [
     {
-      "PRODUCT_LINES": "Other",
+      "PRODUCT_LINES": "RCAllRigidScopes123",
       "LAST_MODIFIED_DATE": "2023-04-28 14:33:43.0000000",
       "IS_INACTIVE": "No",
       "MODEL_NUMBER": "A70941A",
